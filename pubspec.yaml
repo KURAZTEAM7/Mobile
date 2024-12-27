@@ -19,6 +19,7 @@ dependencies:
   file_picker: ^8.1.2
   image_picker: ^1.1.2
   introduction_screen: ^3.1.14
+  network_info_plus: ^6.1.2
 
 dev_dependencies:
   flutter_test:
